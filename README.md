@@ -12,4 +12,3 @@ PostgreSQL, MySQL
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 <br><br>
-<h3>My Repositories</h3>
