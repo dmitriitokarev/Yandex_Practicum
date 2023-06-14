@@ -15,4 +15,4 @@ PostgreSQL, MySQL
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 <br><br>
 ### Connect with me:
-[<img align="left" alt="Dmitrii Tokarev | VK" width="22px" src="https://vk.com/id107559" />][VK]
+[<img align="left" alt="Dmitrii Tokarev | VK" width="22px" src="https://vk.com/id107559" />]
