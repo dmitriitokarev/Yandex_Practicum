@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 ### Здравствуйте 👋
@@ -17,6 +17,3 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, statsmodels, Plotly
 <br><br>
 ### Connect with me:
 <p><a href="https://vk.com/id107559"><img src="https://img.shields.io/badge/VK.COM-red?logo=linkedin&logoColor=white" height=25></a></p>
-
-[<img align="left" alt="id107559 | vk.com" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK.COM]
-[VK.COM]: https://vk.com/id107559
