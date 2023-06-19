@@ -1,6 +1,10 @@
 ### Здравствуйте 👋
 
-<p><a href="https://spb.hh.ru/resume/671660efff0bf3cf740039ed1f6f5265793070"><img src="https://img.headhunter.ru/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  </p>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
+<p><a href="https://spb.hh.ru/resume/671660efff0bf3cf740039ed1f6f5265793070"><img src="https://img.shields.io/badge/VK.COM-blue?logo=linkedin&logoColor=white" height=25></a></p>
 
 ### Меня зовут Дмитрий токарев :raising_hand: 
 
